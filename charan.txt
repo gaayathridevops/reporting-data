@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 data flow
 
 i am studying eagurly 
+=======
+hi there
+
+data flow
+>>>>>>> 04b6fa3d76baf29322c32886c55421fee444a4d8
